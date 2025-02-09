@@ -1,4 +1,4 @@
-[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brauliobarahona/fpp3-python/blob/colab/README.md)
+[[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brauliobarahona/fpp3-python/blob/colab/README.md)
 
 # Python Adaptation of "Forecasting: Principles and Practice"
 
