@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brauliobarahona/fpp3-python/blob/colab/readme.md)
+
 # Python Adaptation of "Forecasting: Principles and Practice"
 
 Welcome to our project! This repository is dedicated to transforming the incredible insights found in [Forecasting: Principles and Practice](https://otexts.com/fpp3/), a book by Rob J. Hyndman and George Athanasopoulos, into Python-friendly content.
