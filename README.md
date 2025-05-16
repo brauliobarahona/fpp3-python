@@ -12,6 +12,6 @@ If you are not interested in running the notebooks in colab, not particularly in
 # References and further resources # 
 ------------------------------------
 
-[1] https://otexts.com/fpp3/
-[2] https://otexts.com/fpppy/
-[3] https://github.com/Nixtla/fpp3-python
+- [1] https://otexts.com/fpp3/
+- [2] https://otexts.com/fpppy/
+- [3] https://github.com/Nixtla/fpp3-python
